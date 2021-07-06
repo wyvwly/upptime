@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/wangye.page",
     "slug": "wordpress-blog",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "uptime": "3.20%",
+    "uptimeDay": "3.20%",
+    "uptimeWeek": "3.20%",
+    "uptimeMonth": "3.20%",
+    "uptimeYear": "3.20%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-06": 39,
+      "2021-07-05": 995
     }
   }
 ]
