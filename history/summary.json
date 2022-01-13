@@ -22,7 +22,7 @@
     "url": "https://archive.org/",
     "icon": "https://favicons.githubusercontent.com/archive.org",
     "slug": "internet-archives",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 327,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-13": 0
+    }
   }
 ]
